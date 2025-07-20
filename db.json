@@ -11,9 +11,6 @@
         {"id": 9, "name": "صينية مكس شاورما", "category": "trays", "price": 400},
         {"id": 10, "name": "صينية المشاوي", "category": "trays", "price": 380},
         {"id": 11, "name": "صينية مكس المشاوي", "category": "trays", "price": 450},
-        {"id": 12, "name": "مشروب لتر", "category": "drinks", "price": 25},
-        {"id": 13, "name": "كانز", "category": "drinks", "price": 20},
-        {"id": 14, "name": "مياة صغيرة", "category": "drinks", "price": 10},
         {"id": 15, "name": "فرخة بروستد", "category": "broasted chicken", "price": 390},
         {"id": 16, "name": "فرخة بروستد سبايسي", "category": "broasted chicken", "price": 390},
         {"id": 17, "name": "نصف فرخة بروستد بالارز", "category": "broasted chicken", "price": 205},
@@ -154,7 +151,10 @@
         {"id": 152, "name": "كريب ماجنم", "category": "crepes", "price": 105},
         {"id": 153, "name": "كريب بطاطس", "category": "crepes", "price": 55},
         {"id": 154, "name": "كريب شيكولاتة", "category": "crepes", "price": 40},
-        {"id": 155, "name": "كريب مشكل دجاج", "category": "crepes", "price": 100}
+        {"id": 155, "name": "كريب مشكل دجاج", "category": "crepes", "price": 100},
+        {"id": 12, "name": "مشروب لتر", "category": "drinks", "price": 25},
+        {"id": 13, "name": "كانز", "category": "drinks", "price": 20},
+        {"id": 14, "name": "مياة صغيرة", "category": "drinks", "price": 10},
     ], 
     "offers" : [ 
         {"id": 1, "name": "عرض دلع كرشك 1", "price": 110, "content": "ربع فرخة سوري + رز + مخلل + بطاطس + تومية + قطعة كرسبي"},
