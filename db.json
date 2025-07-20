@@ -161,7 +161,7 @@
         {"id": 2, "name": "عرض دلع كرشك 2", "price": 120, "content": "ربع فرخة سوري + رز + مخلل + بطاطس + تومية + قطعة بروستد", "image": "https://i.postimg.cc/Cx8Z4vnR/offer2.jpg"},
         {"id": 3, "name": "عرض دلع كرشك 3", "price": 110, "content": "ربع فرخة سوري + رز + مخلل + بطاطس + تومية + مثلث ماريا فراخ", "image": "https://i.postimg.cc/HLCrvQbB/offer3.jpg"},
         {"id": 4, "name": "عرض دلع كرشك 4", "price": 120, "content": "ربع فرخة سوري + رز + مخلل + بطاطس + تومية + شرايح شاورما فراخ", "image": "https://i.postimg.cc/ZqFCGCcZ/offer4.jpg"},
-        {"id": 5, "name": "4 عرض التوفير", "price": 100, "content": "مثلثين ماريا فراخ + قطعة بروستيد + رز + بطاطس + علبة تومية صغيرة", "image": "https://i.postimg.cc/Fswt4pWg/offer5.jpg"},
+        {"id": 5, "name": "عرض التوفير 4", "price": 100, "content": "مثلثين ماريا فراخ + قطعة بروستيد + رز + بطاطس + علبة تومية صغيرة", "image": "https://i.postimg.cc/Fswt4pWg/offer5.jpg"},
         {"id": 6, "name": "صنية القرمشة", "price": 100, "content": "نص كيلو رز + خمس قطع بروستيد + بطاطس", "image": "https://i.postimg.cc/3RfSZrzC/offer6.jpg"}
     ]
 }
