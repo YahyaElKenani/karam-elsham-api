@@ -154,7 +154,7 @@
         {"id": 155, "name": "كريب مشكل دجاج", "category": "crepes", "price": 100},
         {"id": 12, "name": "مشروب لتر", "category": "drinks", "price": 25},
         {"id": 13, "name": "كانز", "category": "drinks", "price": 20},
-        {"id": 14, "name": "مياة صغيرة", "category": "drinks", "price": 10},
+        {"id": 14, "name": "مياة صغيرة", "category": "drinks", "price": 10}
     ], 
     "offers" : [ 
         {"id": 1, "name": "عرض دلع كرشك 1", "price": 110, "content": "ربع فرخة سوري + رز + مخلل + بطاطس + تومية + قطعة كرسبي"},
